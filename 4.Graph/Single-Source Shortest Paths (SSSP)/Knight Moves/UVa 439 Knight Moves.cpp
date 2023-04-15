@@ -23,8 +23,7 @@ int ans = 0;
 bool isValid(int x , int y){
      if(x < 0 or x > 7 or y < 0 or y > 7) return 0; return 1;
 }
-// solution of https://www.spoj.com/problems/NAKANJ/
-// BFS on grid 
+
 void bfs(int startX , int startY , int endX , int endY)
 {
      queue<pair<int,int>> q;
