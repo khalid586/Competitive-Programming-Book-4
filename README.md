@@ -27,6 +27,30 @@ Getting Started The Easy Problems
 
 </details>
 
+</details>
+<details>
+<summary> 
+<b> Problem Solving Paradigms</b>
+</summary>
+
+<details><summary>Iterative (Three or More Nested Loops, Easier)</summary>
+
+1. [Iterative (Three or More Nested Loops, Easier)](https://github.com/khalid586/Competitive-Programming-Book-4/tree/main/3.%20Problem%20Solving%20Paradigms/Iterative%20(Three%20or%20More%20Nested%20Loops%2C%20Easier))
+</details>
+
+<details><summary>Iterative (Two Nested Loops)</summary>
+
+1. [UVa 1260 - Sales](https://github.com/khalid586/Competitive-Programming-Book-4/blob/main/3.%20Problem%20Solving%20Paradigms/Iterative%20(Two%20Nested%20Loops)/UVa%201260%20-%20Sales.cpp)
+</details>
+
+<details><summary>Max 1D Range Sum</summary>
+
+1. [UVa 10684 - The jackpot](https://github.com/khalid586/Competitive-Programming-Book-4/blob/main/3.%20Problem%20Solving%20Paradigms/Max%201D%20Range%20Sum/UVa%2010684%20-%20The%20jackpot.cpp)
+</details>
+
+</details>
+
+
 <details>
 <summary> 
 <b>Mathematics</b>
