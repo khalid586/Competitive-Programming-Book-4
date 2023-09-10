@@ -9,7 +9,7 @@
 # <img src = "https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif" align = "center" width = "60px" height = "40px"> Topics
 
 
-<p align = "center"><img align = "center" src = "https://img.shields.io/badge/CLICK-%23E60023.svg?">  on the Topic Names below </p>
+<p align = "center"><img align = "center" src = "https://img.shields.io/badge/CLICK-%23E60023.svg?">  on the Topic</p>
 
 
 <details>
