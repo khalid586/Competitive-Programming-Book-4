@@ -1,9 +1,14 @@
-This repo contains solutions of competitive programming book 4 topic wise.
+<img alt="Coding" width="800px" height="400px" src="https://cdn.dribbble.com/users/1959912/screenshots/6464044/content_creator_dribbble.gif">
 
-You can find the problems on uHunt website. [uHunt website](https://uhunt.onlinejudge.org/)
+# <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "60px" height = "45px"> Introduction
+**This repo contains solutions of competitive programming book 4 topic wise.**
+**You can find the problems on uHunt website. [uHunt website](https://uhunt.onlinejudge.org/)**
 
-<h3>CLICK on the Topic Names below </h3>
-<img width = "100px" align = "center" src = "https://cdn.dribbble.com/users/729829/screenshots/3975065/media/af0e87e1f3254324eeb80e489403c445.gif"> <br> <br>
+<br>
+
+# <img src = "https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif" align = "center" width = "60px" height = "40px"> Topics
+<h4 align = "center"><img width = "40px" align = "center" src = "https://cdn.dribbble.com/users/729829/screenshots/3975065/media/af0e87e1f3254324eeb80e489403c445.gif"> CLICK on the Topic Names below </h4>
+ <br> <br>
 
 <details>
 <summary> 
