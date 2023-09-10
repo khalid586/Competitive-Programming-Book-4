@@ -1,4 +1,4 @@
-<img alt="Coding" width="800px" height="400px" src="https://cdn.dribbble.com/users/1959912/screenshots/6464044/content_creator_dribbble.gif">
+<img alt="Coding" width="800px" height="400px" src="https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif">
 
 # <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "60px" height = "45px"> Introduction
 **This repo contains solutions of competitive programming book 4 topic wise.**
@@ -6,7 +6,7 @@
 
 <br>
 
-# <img src = "https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif" align = "center" width = "60px" height = "40px"> Topics
+# <img src = "https://cdn.dribbble.com/users/1299339/screenshots/3079111/presentation_d.gif" align = "center" width = "60px" height = "40px"> Topics
 
 
 <p align = "center"><img align = "center" src = "https://img.shields.io/badge/CLICK-%23E60023.svg?">  on the Topic</p>
