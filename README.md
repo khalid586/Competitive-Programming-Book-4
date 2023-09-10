@@ -7,8 +7,10 @@
 <br>
 
 # <img src = "https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif" align = "center" width = "60px" height = "40px"> Topics
-<h4 align = "center"><img width = "40px" align = "center" src = "https://cdn.dribbble.com/users/729829/screenshots/3975065/media/af0e87e1f3254324eeb80e489403c445.gif"> CLICK on the Topic Names below </h4>
- <br> <br>
+
+
+<p align = "center"><img align = "center" src = "https://img.shields.io/badge/CLICK-%23E60023.svg?">  on the Topic Names below </p>
+
 
 <details>
 <summary> 
