@@ -33,7 +33,7 @@ Getting Started The Easy Problems
 <b>Data Structures and Libraries</b>
 </summary>
 
-1. [Uva 10038](https://github.com/khalid586/Competitive-Programming-Book-4/tree/main/2.Data%20Structures%20and%20Libraries/1D%20Array%20Manipulation)
+1. [Uva 10038](https://github.com/khalid586/Competitive-Programming-Book-4/blob/main/2.Data%20Structures%20and%20Libraries/1D%20Array%20Manipulation/Uva%2010038.cpp)
 
 </details> <br>
 
