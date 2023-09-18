@@ -3,7 +3,7 @@
 ### <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "45px" height = "30px"> Backstory
 
 >**This repo contains solutions of various problems in competitive programming book 4. Solutions of the problems have been given topic wise.**
-**You can find the problems on uHunt website. [uHunt website](https://uhunt.onlinejudge.org/)**
+**You can find the problems on [uHunt website.](https://uhunt.onlinejudge.org/)**
 
 <br>
 
